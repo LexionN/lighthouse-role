@@ -30,4 +30,4 @@ MIT
 Author Information
 ------------------
 
-Aleksey Naumov
+Aleksey Naumov 
